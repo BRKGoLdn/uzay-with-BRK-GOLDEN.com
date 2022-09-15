@@ -1,0 +1,30 @@
+body{
+
+    background-color: brown;
+
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: aliceblue;
+    font-family: Algerian;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    color: white;
+    text-align: left;
+    font-size: 55px;
+}
+img{
+    float: right;
+    width: 700px;
+    border-radius: 100px;
+}
+
+.kredi{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}

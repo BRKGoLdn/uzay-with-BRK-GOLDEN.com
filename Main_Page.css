@@ -1,0 +1,36 @@
+body{
+    background-image: url(Space-trippy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 130px;
+    font-family: Algerian;
+    color: aliceblue;   
+    text-shadow: 2px 2px gray;
+}
+
+p {
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.btn{
+    background-image: url(Space-trippy.gif);
+    color: aliceblue;
+    font-size: 30px;
+}
+
+ul{
+    color: white;
+    font-size:25px ;
+}
+
+h4 {
+    color: aliceblue;
+    font-size: 35px;
+
+}
+

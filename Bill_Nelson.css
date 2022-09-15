@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(71, 30, 255);
+  
+}
+
+h1{
+
+    color:rgb(227, 226, 186);
+    font-size: 50px;
+    text-shadow: 2px 3px black;
+}
+
+p{
+    color:rgb(227, 226, 186);
+    font-size: 35px;
+}
+
+
+
+img {
+
+    float: right;
+    border-style:solid ;
+    border-radius: 100px;
+    border-color: black;
+    width: 300px
+}

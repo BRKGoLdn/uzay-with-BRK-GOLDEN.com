@@ -1,0 +1,33 @@
+body{
+    background-image: url(Planets.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(0, 255, 255);
+    text-shadow: 2px 2px black;
+    text-align: center;
+    font-size: 90px;
+    font-family: Matura MT Script Capitals;
+}
+
+p{
+    color: rgb(0, 240, 16);
+    font-size: 30px;
+
+}
+
+
+img {
+    border-radius: 100px;
+    float: right;
+}
+
+
+
+h2 {
+    font-size: 50px;
+    color: chartreuse;
+    font-family: Curlz MT;
+}

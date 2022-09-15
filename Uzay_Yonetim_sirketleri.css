@@ -1,0 +1,64 @@
+body{
+    background-image: url(uzaysirketi.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
+    text-shadow: 2px 2px brown;
+}
+
+p{
+    font-family: Agency FB;
+    color: rgb(255, 253, 118);
+    font-size: 35px;
+    text-align: left;
+
+}
+
+.CEO{
+    color:rgb(250, 70, 70)
+
+}
+
+.Nasa{
+    float:right;
+    border-style:solid ;
+    border-radius: 10000px;
+    border-color:black ;
+    width: 400px;
+    margin-top: 70px;
+}
+
+h2{
+
+    font-family: Algerian;
+    text-align: center;
+    color: aliceblue;
+    font-size: 55px;
+    text-shadow: 2px 2px brown;
+}
+
+.Elon{
+    color: rgb(255, 117, 117)
+}
+img{
+    float: center;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    width: 500px;
+    border-radius: 100px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+body{
+    background-image: url(star.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+       color:aliceblue;
+       font-size: 90px;
+       text-align: center;
+       font-family:Magneto ;
+       text-shadow: 2px 2px coral;
+}
+
+.Yildiz_bilgi{
+
+    color: rgb(0, 200, 255);
+    font-size: 50px;
+}
+p {
+    text-align: left;
+    color: rgb(255, 128, 0);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(250, 171, 0);
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(255, 249, 246);
+
+}
+
+img{
+    float: right;
+    border: 50px black;
+    border-radius: 100px;
+    width: 500px;
+}
+
